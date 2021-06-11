@@ -3,17 +3,17 @@
 A project which performs compression and decompression of images from the MNIST dataset using autoencoder and K-Means clustering and deployment of the model using Flask.
 
 
-# Environment
+## Environment
  - Coded in python 3.8
  - Interactive python notebook editor - Google collab
 
-# Folders
+## Folders
 - Notebooks - contains the google collab notebooks
 - Flask App - contains the code required for the flask application 
 - Models - contains the pretrained models in h5 format
 - Results - contains screenshots of the project outcome 
 
-# Installation
+## Installation
 To run the flask app in a  windows environment
 
  1. Install python 3.8
